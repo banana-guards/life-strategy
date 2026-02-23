@@ -1,0 +1,182 @@
+{
+  "button": { "save": "Guardar" },
+  "configurations": {
+    "theme": "Tema",
+    "lightMode": "Modo claro",
+    "darkMode": "Modo oscuro",
+    "notificationSettings": "Configuración de notificaciones",
+    "notificationSettingsConfig": "Personaliza cómo recibes las notificaciones de Life Strategy",
+    "selectedLanguage": "Idioma seleccionado",
+    "englishOption": "Inglés",
+    "spanishOption": "Español",
+    "logOut": "finalizar la sesión"
+  },
+  "tab": {
+    "resume": "Resumen",
+    "test": "Prueba",
+    "saved": "Guardado"
+  },
+  "headerTitles": {
+    "step1": "Definición del éxito personal",
+    "step2": "Propósito de vida",
+    "step3": "Visión personal",
+    "step4": "Autoevaluación",
+    "step5": "Aprendiendo de otros",
+    "step6": "Cambio sostenible",
+    "step7": "Asegurar un cambio de vida sostenido"
+  },
+  "ratePicker": { "selectOption": "Selecciona una opción..." },
+  "questionInput": { "answer": "Escribe tu respuesta..." },
+  "areaLife": { "answer": "Escribe tu respuesta..." },
+  "Login": {
+    "googleLogin": "Continua con Google",
+    "contactMessage": "Contactanos"
+  },
+  "step1": {
+    "introQuestion": "Quizás te encuentres en un punto de inflexión en tu vida: una graduación, un nuevo trabajo, un ascenso, un nido vacío, la jubilación o las consecuencias de una pérdida, una crisis o un cambio profundo.",
+    "question": "¿Sientes que estás atravesando una etapa que marca un antes y un después?",
+    "topicsQuestions": "¿Cómo mides tu vida?",
+    "topics": {
+      "topic1": {
+        "title": "Emociones positivas",
+        "description": "Sensaciones frecuentes de placer y satisfacción"
+      },
+      "topic2": {
+        "title": "Compromiso",
+        "description": "Estar totalmente absorto en una actividad"
+      },
+      "topic3": {
+        "title": "Relaciones",
+        "description": "Sentimientos mutuos de cuidado, apoyo y amor"
+      },
+      "topic4": {
+        "title": "Significado",
+        "description": "Contribuir a hacer del mundo un lugar mejor"
+      },
+      "topic5": {
+        "title": "Logro",
+        "description": "Esforzarse por el exito o la maestria"
+      },
+      "topic6": {
+        "title": "Vitalidad",
+        "description": "estar saludable y energico"
+      }
+    },
+    "buttonSave": "Guardar"
+  },
+  "step2": {
+    "questions": {
+      "goodAt": {
+        "question": "¿En qué eres bueno?",
+        "introQuestion": "Piensa en situciones en el trabajo o en otras areas de tu vida en las que hayas demostrado fortalezas"
+      },
+      "worldNeed": "¿Qué necesita el mundo?",
+      "excitesUs": "¿Qué nos entusiasma?",
+      "askFriends": "Pregunta a tus amigos o familiares cuáles son tus fortalezas, qué valores tienes y qué te apasiona",
+      "purpose": "Escribe una declaración de propósito"
+    },
+    "instruction": "¿Qué necesidad puedo ayudar a resolver en el mundo? Podría ser uno de los 17 Objetivos de Desarrollo Sostenible de las Naciones Unidas",
+    "sustainableGoalsLabel": "Objetivos de Desarrollo Sostenible",
+    "goals": {
+      "goal1": "Sin pobreza",
+      "goal2": "Hambre cero",
+      "goal3": "Salud y bienestar",
+      "goal4": "Educación de calidad",
+      "goal5": "Igualdad de género",
+      "goal6": "Agua limpia y saneamiento",
+      "goal7": "Energía asequible y limpia",
+      "goal8": "Trabajo decente y crecimiento económico",
+      "goal9": "Industria, innovación e infraestructura",
+      "goal10": "Reducción de las desigualdades",
+      "goal11": "Ciudades y comunidades sostenibles",
+      "goal12": "Producción y consumo responsables",
+      "goal13": "Acción por el clima",
+      "goal14": "Vida submarina",
+      "goal15": "Vida de ecosistemas terrestres",
+      "goal16": "Paz, justicia e instituciones sólidas",
+      "goal17": "Alianzas para lograr los objetivos"
+    },
+    "buttonSave": "Guardar"
+  },
+  "step3": {
+    "questions": {
+      "visualize": "Visualiza el tipo de persona que quieres ser en los próximos años",
+      "story": "¿Qué historia me gustaría que la gente contara sobre mí dentro de cinco o diez años?",
+      "money": "¿Qué haría si el dinero no fuera un problema?",
+      "oldMe": "¿Qué no querría haberme perdido en la vida cuando tenga 80 años?"
+    },
+    "buttonSave": "Guardar"
+  },
+  "step4": {
+    "instruction": "¿Describe que realizaste la anterior semana, cuanto tiempo le dedicaste a esa area y que satisfacciones obtuviste?",
+    "areasLife": {
+      "areaLife0": "Persona importante",
+      "areaLife1": "Familia",
+      "areaLife2": "Amistad",
+      "areaLife3": "Salud física/deportes",
+      "areaLife4": "Espiritualidad/fe",
+      "areaLife5": "Comunidad/ciudadanía",
+      "areaLife6": "Participación social",
+      "areaLife7": "Trabajo/carrera",
+      "areaLife8": "Educación/aprendizaje",
+      "areaLife9": "Finanzas",
+      "areaLife10": "Aficiones/intereses",
+      "areaLife11": "Entretenimiento en línea",
+      "areaLife12": "Entretenimiento fuera de línea",
+      "areaLife13": "Necesidades fisiológicas",
+      "areaLife14": "Actividades de la vida diaria"
+    },
+    "buttonSave": "Guardar"
+  },
+  "step5": {
+    "question": "¿Quién maneja su vida personal y profesional de una manera que admiro? Pregúntate qué los hace admirables y qué decisiones tomarían si estuvieran en tu lugar.",
+    "buttonSave": "Guardar"
+  },
+  "step6": {
+    "questions": {
+      "continueLife": "¿Qué pasaría si continúo viviendo mi vida como lo hago ahora?",
+      "changePriorities": "¿Qué pasaría si cambio mis prioridades?",
+      "areasDissatisfaction": "Piensa en lo que puedes hacer por tus áreas de insatisfacción",
+      "currentJobPurpose": "¿Cómo apoya mi trabajo actual mi propósito y visión?",
+      "jobEngagement": "¿Mi trabajo actual me da sensación de logro y compromiso?"
+    },
+    "buttonSave": "Guardar"
+  },
+  "step7": {
+    "questions": {
+      "defineGoal": "Define el objetivo general y la fecha en la que deseas lograrlo",
+      "sharePlan": "¿A quién le contarás tu plan o a quién invitarás a unirse a tu camino?",
+      "rewardConsequences": "¿Cómo te recompensarás cuando hayas cambiado exitosamente un aspecto de tu vida, y cuáles serán las consecuencias si no lo haces?",
+      "weeklyReview": "¿Cuándo cada semana puedes dedicar 15 minutos para revisar y actualizar tu estrategia de vida?"
+    },
+    "buttonSave": "Guardar"
+  },
+  "test": {
+    "title1": "Definición del éxito personal",
+    "question1": "¿Cómo defino una gran vida?",
+    "title2": "Propósito de vida",
+    "question2": "¿Cuál es mi propósito en la vida?",
+    "title3": "Visión personal",
+    "question3": "¿Cuál es mi visión de vida?",
+    "title4": "Autoevaluación",
+    "question4": "¿Cómo evalúo mi portafolio de vida?",
+    "title5": "Aprendiendo de otros",
+    "question5": "¿Qué puedo aprender de los referentes?",
+    "title6": "Decisiones de vida",
+    "question6": "¿Qué elecciones puedo hacer en mi portafolio de vida?",
+    "title7": "Cambio sostenible",
+    "question7": "¿Cómo puedo asegurar un cambio de vida exitoso y duradero?"
+  },
+  "article": {
+    "dropCap": "E",
+    "firstParagraph": "n los proyectos de estrategia corporativa, los equipos de liderazgo ejecutivo trabajan con una serie de preguntas para determinar cómo sus negocios pueden tener éxito.",
+    "secondParagraph": "Las personas pueden usar un proceso similar para descubrir cómo vivir una vida plena. Comienza definiendo qué hace que una vida sea plena para ti y luego definiendo tu propósito y visión. También debes analizar tu portafolio actual —las áreas en las que inviertes tu tiempo y energía— para ver si estás invirtiendo lo mejor de ti en las actividades que más te importan. Debes considerar lo que dicen las investigaciones sobre cómo las personas tienden a encontrar sentido y alegría en la vida.",
+    "thirdParagraph": "Finalmente, deberás identificar las áreas donde necesitas hacer cambios y asegurarte de cumplir con los objetivos y resultados clave. Este programa, Estrategiza tu Vida, se ha probado con más de 500 personas en todo el mundo. Con unas pocas horas de trabajo, puedes desarrollar una estrategia de vida personal y resumirla en una sola página."
+  },
+  "saved": {
+    "description": "¡Desafía tu mente cada día y mantén tu estrategia!",
+    "details": "Responde los pasos de la sección de test y genera un informe de tu estrategia de vida.",
+    "reportButton": "Generar Reporte",
+    "reportTitle": "Reportes generados"
+  }
+}

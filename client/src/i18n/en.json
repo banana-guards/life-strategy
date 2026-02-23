@@ -1,0 +1,181 @@
+{
+  "configurations": {
+    "theme": "Theme",
+    "lightMode": "light mode",
+    "darkMode": "dark mode",
+    "notificationSettings": "Notification settings",
+    "notificationSettingsConfig": "Customize how you receive Life Strategy notifications",
+    "selectedLanguage": "Selected language",
+    "englishOption": "English",
+    "spanishOption": "Spanish",
+    "logOut": "log out"
+  },
+  "tab": {
+    "resume": "Resume",
+    "test": "Test",
+    "saved": "Saved"
+  },
+  "headerTitles": {
+    "step1": "Defining Personal Success",
+    "step2": "Life Purpose",
+    "step3": "Personal Vision",
+    "step4": "Self-Assessment",
+    "step5": "Learning from Others",
+    "step6": "Sustainable Change",
+    "step7": "Ensure sustained life change"
+  },
+  "ratePicker": { "selectOption": "Select an option..." },
+  "questionInput": { "answer": "Write your answer..." },
+  "areaLife": { "answer": "Write your answer..." },
+  "Login": {
+    "googleLogin": "Continue with Google",
+    "contactMessage": "Contact us"
+  },
+  "step1": {
+    "introQuestion": "You may find yourself at a turning point in your life: a graduation, a new job, a promotion, an empty nest, retirement, or the aftermath of a loss, a crisis, or a profound change.",
+    "question": "Do you feel that you are going through a stage that marks a before and an after?",
+    "topicsQuestions": "How do you measure your life?",
+    "topics": {
+      "topic1": {
+        "title": "Positive Emotions",
+        "description": "Frequent feelings of pleasure and satisfaction"
+      },
+      "topic2": {
+        "title": "Engagement",
+        "description": "Being fully absorbed in an activity"
+      },
+      "topic3": {
+        "title": "Relationships",
+        "description": "Mutual feelings of care, support, and love"
+      },
+      "topic4": {
+        "title": "Meaning",
+        "description": "Contributing to making the world a better place"
+      },
+      "topic5": {
+        "title": "Achievement",
+        "description": "Striving for success or mastery"
+      },
+      "topic6": {
+        "title": "Vitality",
+        "description": "Being healthy and energetic"
+      }
+    },
+    "buttonSave": "Save"
+  },
+  "step2": {
+    "questions": {
+      "goodAt": {
+        "question": "What are you good at?",
+        "introQuestion": "Think of situations at work or in other areas of your life where you have shown strengths"
+      },
+      "worldNeed": "What does the world need?",
+      "excitesUs": "What excites us?",
+      "askFriends": "Ask your friends or family what your strengths are, what values ​​you have, what you're passionate about",
+      "purpose": "Write a statement of purpose"
+    },
+    "instruction": "What need can I help address in the world? It could be one of the 17 Sustainable Development Goals of the United Nations",
+    "sustainableGoalsLabel": "Sustainable Development Goals",
+    "goals": {
+      "goal1": "No Poverty",
+      "goal2": "Zero Hunger",
+      "goal3": "Good Health and Well-being",
+      "goal4": "Quality Education",
+      "goal5": "Gender Equality",
+      "goal6": "Clean Water and Sanitation",
+      "goal7": "Affordable and Clean Energy",
+      "goal8": "Decent Work and Economic Growth",
+      "goal9": "Industry, Innovation, and Infrastructure",
+      "goal10": "Reduced Inequalities",
+      "goal11": "Sustainable Cities and Communities",
+      "goal12": "Responsible Consumption and Production",
+      "goal13": "Climate Action",
+      "goal14": "Life Below Water",
+      "goal15": "Life on Land",
+      "goal16": "Peace, Justice, and Strong Institutions",
+      "goal17": "Partnerships for the Goals"
+    },
+    "buttonSave": "send"
+  },
+  "step3": {
+    "questions": {
+      "visualize": "Visualize the type of person you want to be in the next few years",
+      "story": "What story would I like people to tell about me five to ten years from now?",
+      "money": "What would I do if money wasn’t an issue?",
+      "oldMe": "What will the 80-year-old me not want to have missed in life?"
+    },
+    "buttonSave": "send"
+  },
+  "step4": {
+    "instruction": "Describe what you did last week, how much time you dedicated to that area, and what satisfactions you obtained?",
+    "areasLife": {
+      "areaLife0": "Important person",
+      "areaLife1": "Family",
+      "areaLife2": "Friendship",
+      "areaLife3": "Physical health/sports",
+      "areaLife4": "Spirituality/faith",
+      "areaLife5": "Community/citizenship",
+      "areaLife6": "Social participation",
+      "areaLife7": "Work/career",
+      "areaLife8": "Education/learning",
+      "areaLife9": "Finances",
+      "areaLife10": "Hobbies/interests",
+      "areaLife11": "Online entertainment",
+      "areaLife12": "Offline entertainment",
+      "areaLife13": "Physiological needs",
+      "areaLife14": "Activities of daily living"
+    },
+    "buttonSave": "send"
+  },
+  "step5": {
+    "question": "Who manages their personal and professional life in a way I admire? Ask yourself what makes them admirable and what decisions they would make if they were in your shoes.",
+    "buttonSave": "send"
+  },
+  "step6": {
+    "questions": {
+      "continueLife": "What happens if I continue to live my life the way I am now?",
+      "changePriorities": "What if I change my priorities?",
+      "areasDissatisfaction": "Think about what you can do for your areas of dissatisfaction",
+      "currentJobPurpose": "How does my current job support my purpose and vision?",
+      "jobEngagement": "Does my current job give me a sense of achievement and engagement?"
+    },
+    "buttonSave": "send"
+  },
+  "step7": {
+    "questions": {
+      "defineGoal": "Define the overall goal and the date you want to achieve it",
+      "sharePlan": "Who will you tell about your plan or who will you invite to join you on your journey?",
+      "rewardConsequences": "How will you reward yourself when you have successfully changed an aspect of your life, and what will the consequences be if you don't?",
+      "weeklyReview": "When each week can you dedicate 15 minutes to review and update your life strategy?"
+    },
+    "buttonSave": "send"
+  },
+  "test": {
+    "title1": "Defining Personal Success",
+    "question1": "How do I define a great life?",
+    "title2": "Life Purpose",
+    "question2": "What is my life purpose?",
+    "title3": "Personal Vision",
+    "question3": "What is my life vision?",
+    "title4": "Self-Assessment",
+    "question4": "How do I assess my life portfolio?",
+    "title5": "Learning from Others",
+    "question5": "What can I learn from benchmarks?",
+    "title6": "Life Decisions",
+    "question6": "What portfolio choices can I make?",
+    "title7": "Sustainable Change",
+    "question7": "How can I ensure a successful, sustained life change?"
+  },
+  "article": {
+    "dropCap": "I",
+    "firstParagraph": "n corporate strategy projects, executive leadership teams work through a series of questions to determine how their businesses can succeed.",
+    "secondParagraph": "Individuals can use a similar process to figure out how to live a meaningful life. It starts with defining what makes a great life for you and then outlining your purpose and vision. You must also look at your current “portfolio” — the areas in which you spend your time and energy — to see if you’re investing the best of yourself in the activities most important to you. You should consider what research says about how people tend to find meaning and joy in life.",
+    "thirdParagraph": "Finally, you’ll want to identify areas where you need to make changes, and then ensure you follow through with objectives and key results. This program, Strategize Your Life, has been tested with more than 500 people around the world. With a few hours of work, you can develop a personal life strategy and summarize it on a single page."
+  },
+  "saved": {
+    "description": "Challenge your mind every day and keep your strategy!",
+    "details": "Answer the steps in the test section and generate a report of your life strategy.",
+    "reportButton": "Generate Report",
+    "reportTitle": "Reports generated"
+  }
+}

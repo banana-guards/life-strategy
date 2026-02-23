@@ -1,0 +1,16 @@
+export type areaLifeKeys =
+  | "ImportantPerson"
+  | "Family"
+  | "Friendship"
+  | "PhysicalHealth"
+  | "Spirituality"
+  | "Community"
+  | "SocialParticipation"
+  | "Work"
+  | "Education"
+  | "Finances"
+  | "Hobbies"
+  | "OnlineEntertainment"
+  | "OfflineEntertainment"
+  | "PhysiologicalNeeds"
+  | "ActivitiesOfDailyLiving";

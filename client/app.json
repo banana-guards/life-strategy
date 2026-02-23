@@ -1,0 +1,83 @@
+{
+  "expo": {
+    "name": "life-strategy",
+    "slug": "life-strategy",
+    "scheme": "lifestrategy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "uk.lifestrategy.app"
+    },
+
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "uk.lifestrategy.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#141414",
+        "backgroundImage": "./assets/images/icon.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+
+      "intentFilters": [
+        {
+          "action": "VIEW",
+          "data": [
+            {
+              "scheme": "lifestrategy",
+              "host": "auth",
+              "pathPrefix": "/google"
+            }
+          ],
+          "category": ["BROWSABLE", "DEFAULT"]
+        }
+      ]
+    },
+
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/icon.png"
+    },
+
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/splash-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#141414"
+        }
+      ],
+      [
+        "expo-font",
+        {
+          "fonts": ["./assets/fonts/Merriweather.ttf"],
+          "android": { "fonts": [] },
+          "ios": { "fonts": [] }
+        }
+      ],
+      "expo-web-browser",
+      "expo-secure-store"
+    ],
+
+    "experiments": {
+      "typedRoutes": true,
+      "reactCompiler": true
+    },
+
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "927f5ddf-c38b-49e7-9a5c-c5baebca1fae"
+      }
+    }
+  }
+}

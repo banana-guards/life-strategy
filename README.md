@@ -1,8 +1,8 @@
-#Strategic Life Planner
+# Strategic Life Planner
 
 An application focused on **personal strategic planning**, inspired by enterprise productivity methodologies. Its goal is to help individuals make more conscious decisions aligned with their long-term goals.
 
-![App Screenshot 1](https://scontent-elp3-1.xx.fbcdn.net/v/t39.30808-6/660074618_122156490476729517_3808762493440799282_n.jpg)  
+![App Screenshot 1](https://scontent-elp3-1.xx.fbcdn.net/v/t39.30808-6/660074618_122156490476729517_3808762493440799282_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=13d280&_nc_ohc=os_yBESXMdUQ7kNvwFGb4--&_nc_oc=AdoOUv1hU9_GMeVFRaLCJe15uN1woPK2GdzJZpCB4dqtKi30ntFcuFhpdtDdsnLZYNRHqd8tr7GIsfSM8QWEyiZY&_nc_zt=23&_nc_ht=scontent-elp3-1.xx&_nc_gid=c7Tq9O3X0oPfWgARW89FAA&_nc_ss=7a3a8&oh=00_Afys8gxGCT8Xm9_9Aet1Hus9Ilbxpx-FYfNAypFJiNrJnw&oe=69CF4BDD)  
   
 ![App Screenshot 2](https://scontent-elp3-1.xx.fbcdn.net/v/t39.30808-6/660438948_122156490464729517_4786134608985526884_n.jpg)  
   
